@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListadoActividades</string>
+    <string name="hint_nombre">Nombre de la actividad</string>
+    <string name="hint_jornada">Jornada planeada de la actividad</string>
+    <string name="hint_prioridad">Prioridad de la actividad</string>
+    <string name="hint_boton">REGISTRAR ACTIVIDAD</string>
+    <string name="menu_nuevo">Nueva actividad</string>
+
+</resources>
